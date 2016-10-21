@@ -5,7 +5,7 @@
   },
   {
     "question": "How many people are invited?",
-    "response": "10"
+    "response": "9"
   },
   {
     "question": "Who does not like cheese?" ,
@@ -14,6 +14,10 @@
   {
     "question": "How is the cheese coming?",
     "response": "With the machine"
+  },
+   {
+    "question": "What time closes the cheese's shop?",
+    "response": "6 pm"
   },
   {
     "question": "Do we have potatoes ?",
