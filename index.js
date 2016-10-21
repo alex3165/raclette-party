@@ -11,7 +11,7 @@ prompt.get(q, function (err, result) {
     const res = result[key];
     const answer = data.find(item => item.question === key).response;
 
-    if (res === answer) {
+    if (res.toLowerCase() === answer.toLowerCase()) {
       console.log('Yeah, you will have some cheese at the raclette party!');
     } else {
       console.log('You are a bad follower, you are not invited anymore!');
