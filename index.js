@@ -12,9 +12,9 @@ prompt.get(q, function (err, result) {
     const answer = data.find(item => item.question === key).response;
 
     if (res === answer) {
-      console.log('Yeah you follow it !');
+      console.log('Yeah, you will have some cheese at the raclette party!');
     } else {
-      console.log('You are a bad follower');
+      console.log('You are a bad follower, you are not invited anymore!');
     }
   });
 })
