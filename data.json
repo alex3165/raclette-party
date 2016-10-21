@@ -4,19 +4,15 @@
     "response": "Florent"
   },
   {
-<<<<<<< 81c9b21ec2536ae900a47dcae0d257757ff7c6f8
-    "question": "How many people are invited ?",
+    "question": "How many people are invited?",
     "response": "10"
   },
   {
-    "question": "Who does not like cheese ?" ,
+    "question": "Who does not like cheese?" ,
     "response": "Emilien"
   },
   {
-    "question": "How the cheese is coming ?",
-=======
-    "question": "How the cheese is coming?",
->>>>>>> Fix spelling mistake
+    "question": "How is the cheese coming?",
     "response": "With the machine"
   }
 ]
