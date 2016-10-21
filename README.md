@@ -1,4 +1,4 @@
-# Raclette-party
+# 🧀 Raclette-party
 New state manager to handle complexe raclette party
 
 # How it works
