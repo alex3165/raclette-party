@@ -1,9 +1,10 @@
 [
   {
-    "question": "Who is hosting the raclette party ?",
+    "question": "Who is hosting the raclette party?",
     "response": "Florent"
   },
   {
+<<<<<<< 81c9b21ec2536ae900a47dcae0d257757ff7c6f8
     "question": "How many people are invited ?",
     "response": "10"
   },
@@ -13,6 +14,9 @@
   },
   {
     "question": "How the cheese is coming ?",
+=======
+    "question": "How the cheese is coming?",
+>>>>>>> Fix spelling mistake
     "response": "With the machine"
   }
 ]
