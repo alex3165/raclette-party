@@ -1,0 +1,22 @@
+{
+  "name": "raclette-party",
+  "version": "1.0.0",
+  "description": "New state manager to handle complexe raclette party",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex3165/raclette-party.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex3165/raclette-party/issues"
+  },
+  "homepage": "https://github.com/alex3165/raclette-party#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
